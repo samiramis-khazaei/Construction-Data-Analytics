@@ -67,4 +67,3 @@ Key drivers of total estimate:
 
 
 
-If you want, I can make this README more **finance-focused, academic, or recruiter-ready** (e.g., for internships/quant roles).
