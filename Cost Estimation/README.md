@@ -36,8 +36,8 @@ The project includes:
   * Profit rate
     
  <img width="1218" height="540" alt="image" src="https://github.com/user-attachments/assets/bfbfa20a-97a5-4e6a-8a09-444c2df36fcf" />
-
-    * Discounts/markups
+ 
+  * Discounts/markups
     
  <img width="1256" height="493" alt="image" src="https://github.com/user-attachments/assets/7172797f-f222-40f3-a6bd-22a27e5c6a2c" />
 
